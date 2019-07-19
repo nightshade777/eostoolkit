@@ -38,6 +38,11 @@ const airgrabs = [
   //   description: 'Modern Decentralized Ecosystem, Built on EOSIO. Tools, Rewards, Chat, and more. AIGRAB NOW!',
   //   url: 'https://wizz.network',
   // },
+  // {
+  //   symbol: ‘SOV’,
+  //   account: ‘sovmintofeos’,
+  //   description: ‘SOV is the first variable rate self-deflation cryptocurrency. All Genesis accounts are entitled to an equal amount.’,
+  //   url: 'https://www.soveos.one',
 ];
 
 const claimsUrl = 'https://raw.githubusercontent.com/eostoolkit/eos-claims/master/claims.json';
